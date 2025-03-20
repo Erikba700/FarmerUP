@@ -14,7 +14,7 @@ infra/.terraform.lock.hcl
 
 # Local .terraform directories
 infra/**/.terraform/*
-
+.idea
 # Crash log files
 infra/crash.log
 infra/crash.*.log
@@ -74,7 +74,6 @@ main/terraform.rc
 
 # Other project-specific ignores
 .env
-.idea/
-/.idea
+
 
 main/pub_keys/*
