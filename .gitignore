@@ -74,5 +74,6 @@ main/terraform.rc
 
 # Other project-specific ignores
 .env
+.idea
 
 main/pub_keys/*
